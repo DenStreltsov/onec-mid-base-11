@@ -185,6 +185,7 @@
       <types>String</types>
       <stringQualifiers/>
     </type>
+    <multiLine>true</multiLine>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fillValue xsi:type="core:StringValue">
@@ -216,7 +217,7 @@
     <name>ИЗМ_СогласованнаяСкидка</name>
     <synonym>
       <key>ru</key>
-      <value>ИЗМ согласованная скидка</value>
+      <value>Согласованная скидка</value>
     </synonym>
     <type>
       <types>Number</types>
